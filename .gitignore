@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+
+# OS Generated
+.DS_Store
+.DS_Store?
